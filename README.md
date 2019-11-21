@@ -1,3 +1,5 @@
+<img src="https://wepicksports.com/wp-content/uploads/2015/02/sports-analytics-logo.svg" >
+
 # Sports-Analytics
 Statistics analytics system to use on any sport.
 
