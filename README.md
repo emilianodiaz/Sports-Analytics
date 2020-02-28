@@ -25,3 +25,10 @@ El análisis deportivo es una colección de estadísticas relevantes e históric
   -Las distancias recorridas en metros de cada jugador y un top ten por velocidad máxima alcanzada.
   -El alcance de las metas establecias en el equipo y en el jugador en particular
   -La comparativa de estos valores entre los distintos jugadores
+  
+  
+  # Video Análisis
+  
+  En esta dimensión se encuentra la carga y toma de datos por un lado, y por otro la visualización. Se suben los videos a la plataforma y se configura la herramienta para tomar los datos que necesite. Luego en la pantalla de toma de datos, se analizan y capturan los momentos que precise. 
+  
+  
