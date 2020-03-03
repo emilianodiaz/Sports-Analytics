@@ -31,4 +31,18 @@ El análisis deportivo es una colección de estadísticas relevantes e históric
   
   En esta dimensión se encuentra la carga y toma de datos por un lado, y por otro la visualización. Se suben los videos a la plataforma y se configura la herramienta para tomar los datos que necesite. Luego en la pantalla de toma de datos, se analizan y capturan los momentos que precise. 
   
+  ## Release
+  01/03/2020
+  Módulo video ADMIN
+  - Carga de variables
+  - Carga de teclas de acceso rápido a las variables
+  Módulo video FRONT
+  - Modo vista completa: Toma de datos con tecla enter
+  - Modo vista compartida: Toma de datos seleccionando jugador
+  - Vista de momentos capturados
+  - Agregar comentarios a momentos capturados
+
+  
+  
+  
   
